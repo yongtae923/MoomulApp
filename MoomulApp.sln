@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoomulApp", "MoomulApp\MoomulApp.csproj", "{D4D6B1F9-7E9E-443D-82C4-71AAB60A460A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoomulAppTest", "MoomulAppTest\MoomulAppTest.csproj", "{4D4FEA3F-1BA7-4A6C-A5F8-67F6675AF682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4D6B1F9-7E9E-443D-82C4-71AAB60A460A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D6B1F9-7E9E-443D-82C4-71AAB60A460A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D6B1F9-7E9E-443D-82C4-71AAB60A460A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D6B1F9-7E9E-443D-82C4-71AAB60A460A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D4FEA3F-1BA7-4A6C-A5F8-67F6675AF682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4FEA3F-1BA7-4A6C-A5F8-67F6675AF682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4FEA3F-1BA7-4A6C-A5F8-67F6675AF682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4FEA3F-1BA7-4A6C-A5F8-67F6675AF682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
