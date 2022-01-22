@@ -14,7 +14,7 @@ public class Account
     public string Name { get; set; }
     public string Provider { get; set; }
     public long Points { get; set; }
-    public DateTimeOffset DropoutAt { get; set; }
+    public DateTimeOffset? DropoutAt { get; set; }
     public List<Ulid> BlockedIds { get; set; }
     public List<Ulid> ReportedIds { get; set; }
     public List<Box> Boxes { get; set; }
